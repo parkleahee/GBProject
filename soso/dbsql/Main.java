@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class Main {
 
-	public static void main(String[] args) {
+
 		// TODO Auto-generated method stub
 //		Insertreal in = new Insertreal();
 //		
@@ -48,5 +48,5 @@ public class Main {
 		sar2.add(wheredata2);
 		Select.selection(sar2, "join");
 		//cal,join(from),on,wherecal,wheredata
-}
+
 }
